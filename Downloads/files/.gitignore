@@ -1,0 +1,11 @@
+# Generated files
+sales_data.csv
+sales_dashboard.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.env
