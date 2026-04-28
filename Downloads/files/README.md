@@ -46,30 +46,30 @@ The script generates a `sales_dashboard.png` with these 9 charts:
 
 ## ⚙️ Setup & Run
 
-### 1. Clone the repository
+1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/sales-dashboard.git
+git clone https://github.com/HarbirSinghSandhu/sales-dashboard.git
 cd sales-dashboard
 ```
 
-### 2. Install dependencies
+2. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the analysis
+3. Run the analysis
 ```bash
 python analysis.py
 ```
 
-### 4. Output
+4. Output
 - `sales_data.csv` — generated dataset
 - `sales_dashboard.png` — full 9-chart dashboard
 - Printed insights and summary tables in terminal
 
 ---
 
-## 📁 Project Structure
+Project Structure
 
 ```
 sales-dashboard/
@@ -83,7 +83,7 @@ sales-dashboard/
 
 ---
 
-## 💡 Key Insights Found
+Key Insights Found
 
 - **Electronics** is the top revenue-generating category
 - **Discounts of 10–15%** generate higher average order values
@@ -106,5 +106,4 @@ sales-dashboard/
 ## 👨‍💻 Author
 
 **Harbir Singh Sandhu**
-Python Developer | Data Analyst | AWS Certified
-[LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/YOUR_USERNAME)
+
